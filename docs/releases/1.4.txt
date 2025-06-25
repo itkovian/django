@@ -133,7 +133,7 @@ old-style ``manage.py`` will continue to work as before until Django 1.6. In
 
 The new recommended ``manage.py`` file should look like this::
 
-    #!/usr/bin/env python
+    #!/usr/bin/env python3
     import os, sys
 
     if __name__ == "__main__":

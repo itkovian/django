@@ -362,7 +362,7 @@ Let's take a look inside a couple of those files:
 .. code-block:: python
     :caption: runtests.py
 
-    #!/usr/bin/env python
+    #!/usr/bin/env python3
     import os
     import sys
 
