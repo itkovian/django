@@ -67,7 +67,7 @@ def read(fname):
 
 
 setup(
-    name='Django',
+    name='django',
     version=version,
     python_requires='>={}.{}'.format(*REQUIRED_PYTHON),
     url='https://www.djangoproject.com/',
